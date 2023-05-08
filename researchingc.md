@@ -16,3 +16,10 @@ From the picture we are using the command grep -c that essentially counts the nu
 
 ### 3rd interesting commands ( grep -B)
 
+<img width="914" alt="Screen Shot 2023-05-07 at 10 50 40 PM" src="https://user-images.githubusercontent.com/130090548/236745123-9b45a06d-63d8-47ae-afb6-dcb6fd1e94c1.png">
+
+<img width="1512" alt="Screen Shot 2023-05-07 at 10 54 42 PM" src="https://user-images.githubusercontent.com/130090548/236745129-735c9ea2-d678-475f-a168-55cad19b8563.png">
+
+From the picture we are using the command grep -B that shows before the match and will print out not only the line containing the matching string, but also the 2 lines before the matching line. For example, if you are searching for instances of the string "RNA" in a large file, you may want to see the surrounding lines to get a better idea of the context in which "RNA" appears.
+
+### 4th interesting commands( 
