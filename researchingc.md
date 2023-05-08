@@ -14,4 +14,5 @@ From the picture we are using the command grep -r that searches for the string "
  
 From the picture we are using the command grep -c that essentially counts the number of occurences of a specific string or pattern in a file or directory. THis is is useful because you might use this command to count the number of lines in a log file that contain a particular error message, or to count the number of instances of a specific word in a large text file.
 
-### 3rd interesting commands ( 
+### 3rd interesting commands ( grep -B)
+
